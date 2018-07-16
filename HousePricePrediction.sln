@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{7
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Model", "Model\Model.pyproj", "{77C44E6E-D819-49A2-8ECE-A4A3D1D33404}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrpcContracts", "GrpcContracts\GrpcContracts.csproj", "{8DE1590C-782E-4594-AE39-69F81D8F9612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{7C45DF6F-2BFC-4204-94A7-75463A5CEB08}.Release|Any CPU.Build.0 = Release|Any CPU
 		{77C44E6E-D819-49A2-8ECE-A4A3D1D33404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{77C44E6E-D819-49A2-8ECE-A4A3D1D33404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE1590C-782E-4594-AE39-69F81D8F9612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE1590C-782E-4594-AE39-69F81D8F9612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE1590C-782E-4594-AE39-69F81D8F9612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE1590C-782E-4594-AE39-69F81D8F9612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

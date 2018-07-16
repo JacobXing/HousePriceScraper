@@ -18,4 +18,9 @@
     <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\GrpcContracts\GrpcContracts.csproj" />
+    <ProjectReference Include="..\HousePriceScraper\HousePriceScraper.csproj" />
+  </ItemGroup>
+
 </Project>
